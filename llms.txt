@@ -1,0 +1,12 @@
+# AI Agent MCP Buyer Router Template
+
+Project MCP config: https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/.mcp.json
+
+Router metadata: https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/agent-ops-mcp-router.json
+
+Primary Agent Ops team request: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+
+Revenue rule: template use, MCP config loads, tool calls, generated URLs, issues, discussions, downloads, npm runs, stars, forks, and page views are not revenue. Count revenue only after checkout, receipt, payout, or seller-dashboard evidence.
+

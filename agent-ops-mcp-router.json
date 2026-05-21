@@ -1,0 +1,15 @@
+{
+  "name": "AI Agent MCP Buyer Router Template",
+  "type": "mcp_buyer_router_template",
+  "version": "0.5.138",
+  "template_repository": "https://github.com/ivelly42/ai-agent-mcp-buyer-router-template",
+  "product": "Agent Ops Command Center",
+  "primary_offer": "Team license - 7 seats - $203 gross",
+  "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
+  "payment_ready_fallback": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml",
+  "checkout_status_url": "https://ivelly42.github.io/agent-ops-command-center/checkout-status.json",
+  "metrics_url": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "mcp_config": "https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/.mcp.json",
+  "upstream_mcp_server": "https://ivelly42.github.io/agent-ops-command-center/mcp-server.md",
+  "revenue_rule": "Count revenue only after checkout, receipt, payout, or seller-dashboard evidence. Template use, MCP config loads, MCP tool calls, generated URLs, issues, discussions, downloads, npm runs, stars, forks, and page views are not revenue."
+}

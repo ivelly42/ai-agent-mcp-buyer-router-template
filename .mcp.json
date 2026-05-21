@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "agent-ops-command-center": {
+      "type": "stdio",
+      "command": "npm",
+      "args": [
+        "exec",
+        "--yes",
+        "--package=https://github.com/ivelly42/agent-ops-command-center/releases/download/v5.138-preview/agent-ops-command-center-0.5.138.tgz",
+        "--",
+        "agent-ops-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}

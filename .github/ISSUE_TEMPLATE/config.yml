@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open the $203 Agent Ops team request
+    url: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+    about: Route purchase-ready buyers to the primary Agent Ops team-license request.
+  - name: Record payment-ready intent
+    url: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
+    about: Record checkout preference and receipt need in the main Agent Ops repo.
+  - name: Read checkout status
+    url: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
+    about: Verify whether checkout is live and what evidence counts as revenue.

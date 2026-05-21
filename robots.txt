@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/sitemap.xml
+
+Project-MCP-Config: https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/.mcp.json
+Router-Metadata: https://ivelly42.github.io/ai-agent-mcp-buyer-router-template/agent-ops-mcp-router.json
+Primary-Team-Request: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
