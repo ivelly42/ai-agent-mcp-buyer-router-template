@@ -15,7 +15,7 @@ Copy `.mcp.json` into an AI-agent workspace that supports project-scoped MCP ser
       "args": [
         "exec",
         "--yes",
-        "--package=https://github.com/ivelly42/agent-ops-command-center/releases/download/v5.138-preview/agent-ops-command-center-0.5.138.tgz",
+        "--package=https://github.com/ivelly42/agent-ops-command-center/releases/download/v5.139-preview/agent-ops-command-center-0.5.139.tgz",
         "--",
         "agent-ops-mcp-server"
       ],
@@ -45,4 +45,3 @@ The MCP server exposes:
 This template repo, MCP config loads, MCP tool calls, resource reads, generated request URLs, GitHub issues, discussions, release downloads, npm runs, stars, forks, and page views are not revenue.
 
 Count revenue only after checkout, receipt, payout, or seller-dashboard evidence proves payment.
-
